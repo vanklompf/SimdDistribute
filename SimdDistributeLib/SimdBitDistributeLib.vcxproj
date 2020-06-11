@@ -127,6 +127,7 @@
     <ClCompile Include="Distribute.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AvxEmulation.h" />
     <ClInclude Include="Distribute.h" />
     <ClInclude Include="Queue.h" />
   </ItemGroup>
