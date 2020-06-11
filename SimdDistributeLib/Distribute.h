@@ -9,3 +9,4 @@ void avx256Distribute(const uint32_t* bitArray, size_t bitArraySize, Queue** que
 void avx256DistributeCompress(const uint32_t* bitArray, size_t bitArraySize, Queue** queues);
 
 void avx512Distribute(const uint32_t* bitArray, size_t bitArraySize, Queue** queues);
+void avx512DistributeCompress(const uint32_t* bitArray, size_t bitArraySize, Queue** queues);
